@@ -24,7 +24,7 @@ flash/
 ## ⚙️ Installation
 
 ```bash
-git clone https://github.com/your-username/smart-flashcard-api.git
-cd smart-flashcard-api
+git clone https://github.com/nithish815/smart-flashcard-api-system.git
+cd smart-flashcard-api-system
 pip install -r requirements.txt
 python app.py
